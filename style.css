@@ -3,12 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-body {
-    margin: 0 auto !important;
-}
 .container {
     width: 630px;
     min-height: 800px;
+    margin: 0 auto;
 }
 .header {
     width: 620px;
